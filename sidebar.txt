@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[amx:home|Door43 (amx)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-amx|d43-amx repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-amx/archive/master.zip|d43-amx.zip]]
+
+**Recent Changes**
+{{changes>ns = amx}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/amx|Ethnologue data]]
+
